@@ -30,7 +30,7 @@ font-family: 'Noto Sans KR', sans-serif;}
 #link a{display: inline-block; margin-left:20px;}
 #link a:first-child{margin-left:0;}
 
-#footer {padding:42px 0;text-align: center; color:#FFFFFF; background:#616470} /* 푸터 */
+#footer {padding:42px 0;text-align: center; color:#FFFFFF; background:#616470; marjin: 0 auto;} /* 푸터 */
 #footer address {font-style: normal;}
 
 
